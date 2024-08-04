@@ -1,0 +1,30 @@
+name: 3d-image-registration-segmentation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipython
+  - ipykernel
+  - ipywidgets
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - git
+  - pip
+  - pip:
+    - scikit-image
+    - SimpleITK
+    - itkwidgets
+    - imageio
+    - dcm2niix
+    - nilearn
+    - nibabel
+    - monai
+    - openpyxl
+    - antspyx
+    - hd-bet
+
+
+

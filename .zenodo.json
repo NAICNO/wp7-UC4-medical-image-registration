@@ -1,0 +1,11 @@
+{
+  "title": "NAIC WP7 UC4 — 3D Medical Image Registration",
+  "description": "Multi-modal MRI brain registration pipeline using HD-BET and ANTsPy. Aligns T1, T1Gd, T2, and FLAIR modalities to the SRI-24 standard atlas.",
+  "creators": [
+    {"name": "Alam, Saruar", "affiliation": "University of Bergen"}
+  ],
+  "keywords": ["medical imaging", "MRI", "brain registration", "segmentation", "NAIC WP7"],
+  "license": {"id": "GPL-3.0-only"},
+  "upload_type": "software",
+  "access_right": "open"
+}

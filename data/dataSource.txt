@@ -1,0 +1,2 @@
+https://xnat.bmia.nl/data/archive/projects/egd
+https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1

@@ -1,0 +1,6 @@
+# Test dependencies (CI-friendly)
+numpy
+scipy
+matplotlib
+pytest
+pytest-cov
